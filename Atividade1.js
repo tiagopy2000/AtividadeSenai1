@@ -4,7 +4,7 @@ let  numpecas= 0;
 
 pecaPeso = prompt ("Coloque o peso da peça desejada");
 
-if (pecaPeso > 100 ){
+if (pecaPeso >= 100 ){
   nomePeca = prompt ("Qual nome deseja cadastra na peça?");
 
   if(nomePeca.length >=3 ){
