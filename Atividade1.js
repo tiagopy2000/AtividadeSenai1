@@ -1,5 +1,5 @@
 let pecaPeso = 0;
-let nomePeca = 0;
+let nomePeca = "";
 let  numpecas= 0;
 
 pecaPeso = prompt ("Coloque o peso da peça desejada");
